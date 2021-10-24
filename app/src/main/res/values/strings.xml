@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recursos</string>
+    <string name="tvTitulo">Varios Recursos</string>
+    <string name="tvVersionAndroid"></string>
+    <string name="tvBlueT">1. Bluethooth</string>
+    <string name="btnActivar">Activar</string>
+    <string name="btnDesactivar">Desactivar</string>
+    <string name="tvCapturar">2. Nivel de bateria</string>
+    <string name="btnCaptura">Bateria</string>
+    <string name="tvNivelBateria"></string>
+    <string name="tvAlmacenamiento">3. Alamacenar</string>
+    <string name="etNombreArchivo">Nombre del archivo</string>
+    <string name="btnGuardarArchivo">Guardar archivo</string>
+</resources>
